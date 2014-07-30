@@ -1,0 +1,41 @@
+
+.navbar-title {
+  color:white;
+  float:left;
+}
+.navbar-form {
+  float:right;
+}
+
+.jumbotron {
+  margin-top:70px;
+}
+
+input,
+button {
+  margin:0 5px;
+}
+
+#container-left {
+  width:48%;
+  float:left;
+}
+#container-right {
+  width:48%;
+  float:right;
+}
+#container-view_stock {
+  background-color: #CCC;
+  padding: 30px;
+  border-radius: 10px;
+  height: 300px;
+  width: 50%;
+  display:none;
+  position: relative;
+  overflow-y:scroll;
+  top: -300px;
+  left: 100px;
+}
+.float-right {
+  float:right;
+}
