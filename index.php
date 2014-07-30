@@ -3,12 +3,9 @@
   <title>Simple Stock Exchange</title>
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
-    
+
   <link rel="stylesheet" href="style.css">
   <script src="benzinga.js"></script>
-<!--  
-  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
---> 
 </head>
 <body onload="loadData('start',null,'right')">
   <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
